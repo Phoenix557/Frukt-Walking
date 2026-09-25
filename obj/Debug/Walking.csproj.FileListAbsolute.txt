@@ -1,0 +1,13 @@
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\bin\Debug\Walking.deps.json
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\bin\Debug\Walking.dll
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\bin\Debug\Walking.pdb
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.sourcelink.json
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.dll
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\refint\Walking.dll
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\Walking.pdb
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-Walking\obj\Debug\ref\Walking.dll
